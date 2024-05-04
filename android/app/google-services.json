@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155967107842",
+    "project_id": "uni-mentor-app",
+    "storage_bucket": "uni-mentor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155967107842:android:c3c6d9f341e39f1676081b",
+        "android_client_info": {
+          "package_name": "com.example.uni_mentor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIITbV-PmZTuWXiRl_6DIE9cm-BjcNj2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
